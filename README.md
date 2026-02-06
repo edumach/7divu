@@ -21,4 +21,4 @@ https://tux.panska.cz/~10XPrijmeniJ/7divu
 7. Obsah na stránce bude mít šířku 600 px a svisle vycentrovaný.
 8. Můžete přidat další styly dle vlastní volby, ale nepřehánět!
 
-<img src="https://html.edumach.cz/7divu.png" width="800">
+<img src="https://html.edumach.cz/img/7divu.png" width="800">
